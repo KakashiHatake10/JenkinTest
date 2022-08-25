@@ -18,7 +18,8 @@ public class Mini1Application {
 	}
 
 	public static void main(String[] args) {
-		log.info("inside main...............");
+		log.info("inside main1.1..............");
+		log.info("inside main2...............");
 		SpringApplication.run(Mini1Application.class, args);
 	}
 
